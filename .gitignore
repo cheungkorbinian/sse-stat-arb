@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.matplotlib/
+.tmp_htg_pdf/
+data/cache/
+data/mongo/
+.tools/
+.DS_Store
+dist/
+build/
